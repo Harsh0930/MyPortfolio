@@ -511,7 +511,7 @@ p.software_skills{
                 font-size: 12px;
               }
         }
-        @media  only screen and (min-width:300px) and (max-width:380px) {
+        @media  only screen and (min-width:300px) and (max-width:420px) {
             section.herosection_one{
                 display: grid;
                 grid-template-columns: 1fr;
